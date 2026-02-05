@@ -13,4 +13,5 @@ __________________
 ## Included Files
 - `README.md`
 - `Q8_Q9_Q10_answers.md`
-- `hand_calculations/` (place handwritten solution images here)
+- `hand_calculations/` ![59932e45-8d04-4d46-af56-de980ba03478](https://github.com/user-attachments/assets/c05b3d7b-118c-414c-8a92-0d5d104e31a1)
+
