@@ -13,5 +13,5 @@ __________________
 ## Included Files
 - `README.md`
 - `Q8_Q9_Q10_answers.md`
-- `hand_calculations/` ![59932e45-8d04-4d46-af56-de980ba03478](https://github.com/user-attachments/assets/73d6fa80-757f-41be-880b-3bec4051598a)
+- `hand_calculations/` 
 
